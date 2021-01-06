@@ -23,4 +23,5 @@ Python w Jupyter | Learning
 :eye_speech_bubble:
 
 
-![Eye]{https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN-HE3Dqri47YjBCBOSrplNOekGmzEi1BTg&usqp=CAU}
+![Eye]
+{https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN-HE3Dqri47YjBCBOSrplNOekGmzEi1BTg&usqp=CAU}
