@@ -22,3 +22,6 @@ Python w Jupyter | Learning
 - [x] list syntax required (any unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+
+
+<img width="261" alt="Capture" src="https://user-images.githubusercontent.com/77041247/103737466-436e8900-502d-11eb-927f-4c5a56315239.PNG">
