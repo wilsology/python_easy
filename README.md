@@ -3,7 +3,7 @@
 ###### *smaller header*
 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](<img width="261" alt="Capture" src="https://user-images.githubusercontent.com/77041247/103737466-436e8900-502d-11eb-927f-4c5a56315239.PNG">)
 Format: ![My Best Friend](www.google.com)
 
 Wilson:
