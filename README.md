@@ -23,4 +23,4 @@ Python w Jupyter | Learning
 :eye_speech_bubble:
 
 
-![Eye]{https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLN-HE3Dqri47YjBCBOSrplNOekGmzEi1BTg&usqp=CAU}
+![Eye]{https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-illustration%2Fany-260nw-536451703.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fany%2Bquestions&tbnid=8FCl78aWoBUyPM&vet=12ahUKEwjrzJjt24buAhWWErcAHUV-DSIQMygZegUIARDiAQ..i&docid=_Tyfk3WY2OrO3M&w=368&h=280&q=any%20image&ved=2ahUKEwjrzJjt24buAhWWErcAHUV-DSIQMygZegUIARDiAQ}
