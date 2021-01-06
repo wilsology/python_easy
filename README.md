@@ -3,6 +3,9 @@
 ###### *smaller header*
 
 
+![GitHub Logo](/images/logo.png)
+Format: ![My Best Friend](www.google.com)
+
 Wilson:
 >There is always a 1% in life
 
