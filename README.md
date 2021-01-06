@@ -20,17 +20,4 @@ Python w Jupyter | Learning
 - [x] Live
 - [ ] Dead
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-
-
-   function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
+:eye_speech_bubble:
