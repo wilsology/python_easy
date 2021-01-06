@@ -16,8 +16,8 @@ C programming    | Rookie
 Python w Wing    | Rookie
 Python w Jupyter | Learning
 
-
-- [x] Live
-- [ ] Dead
+:eye::eye::eye:
 
 ![1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhzNlKZvt7mTKa24jKagRQ2dJVlntvT0aVAg&usqp=CAU)
+
+:eye::eye::eye:
